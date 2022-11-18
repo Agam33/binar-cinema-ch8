@@ -1,0 +1,6 @@
+[submodule "binar-cinema-apigateway"]
+	path = binar-cinema-apigateway
+	url = https://github.com/Agam33/binar-cinema-apigateway.git
+[submodule "binar-cinema-studio-service"]
+	path = binar-cinema-studio-service
+	url = https://github.com/Agam33/binar-cinema-studio-service.git
