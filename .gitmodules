@@ -4,3 +4,15 @@
 [submodule "binar-cinema-studio-service"]
 	path = binar-cinema-studio-service
 	url = https://github.com/Agam33/binar-cinema-studio-service.git
+[submodule "binar-cinema-notif-service"]
+	path = binar-cinema-notif-service
+	url = https://github.com/Agam33/binar-cinema-notif-service.git
+[submodule "binar-cinema-order-service"]
+	path = binar-cinema-order-service
+	url = https://github.com/Agam33/binar-cinema-order-service.git
+[submodule "binar-cinema-auth-service"]
+	path = binar-cinema-auth-service
+	url = https://github.com/Agam33/binar-cinema-auth-service.git
+[submodule "binar-cinema-film-service"]
+	path = binar-cinema-film-service
+	url = https://github.com/Agam33/binar-cinema-film-service.git
