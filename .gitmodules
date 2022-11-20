@@ -19,3 +19,6 @@
 [submodule "binar-cinema-report-service"]
 	path = binar-cinema-report-service
 	url = https://github.com/Agam33/binar-cinema-report-service.git
+[submodule "binar-cinema-user-service"]
+	path = binar-cinema-user-service
+	url = https://github.com/Agam33/binar-cinema-user-service.git
